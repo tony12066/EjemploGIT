@@ -3,5 +3,5 @@ Console.WriteLine("Hola estudiantes de cuarto ciclo");
 int n;
 Console.Write("Ingrese un numero: ");
 n = int.Parse(Console.ReadLine());
-
-Console.WriteLine("El numero ingresado fue: " + n);
+n = n * n;
+Console.WriteLine("El numero elevado al cuadrado es: fue: " + n);
