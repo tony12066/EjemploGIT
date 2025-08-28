@@ -1,0 +1,14 @@
+/home/anthony/Escritorio/EjemploGIT/bin/Debug/net8.0/EjemploGIT
+/home/anthony/Escritorio/EjemploGIT/bin/Debug/net8.0/EjemploGIT.deps.json
+/home/anthony/Escritorio/EjemploGIT/bin/Debug/net8.0/EjemploGIT.runtimeconfig.json
+/home/anthony/Escritorio/EjemploGIT/bin/Debug/net8.0/EjemploGIT.dll
+/home/anthony/Escritorio/EjemploGIT/bin/Debug/net8.0/EjemploGIT.pdb
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.GeneratedMSBuildEditorConfig.editorconfig
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.AssemblyInfoInputs.cache
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.AssemblyInfo.cs
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.csproj.CoreCompileInputs.cache
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.dll
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/refint/EjemploGIT.dll
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.pdb
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/EjemploGIT.genruntimeconfig.cache
+/home/anthony/Escritorio/EjemploGIT/obj/Debug/net8.0/ref/EjemploGIT.dll
